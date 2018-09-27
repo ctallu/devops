@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+    /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+    .body-content {
+        /*padding-top: 200px;*/
+        color: aquamarine;
+        width: 75%;
+        padding-top: 200px;
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+        float: left;
+    }
+
+    .Colorw {
+        color: aquamarine;
+        width: 75%;
+        padding-top: 200px;
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+        float: left;
+    }
+
+}
